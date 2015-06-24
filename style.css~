@@ -103,7 +103,6 @@ a:hover, a:active {
 	display: inline-block;
 	width:10%;
 	height:20%;
-	margin-top: 0.5%;
 }
 .mainContent img{
 	width: 100%;
